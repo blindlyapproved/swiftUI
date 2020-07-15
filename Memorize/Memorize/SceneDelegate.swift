@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Memorize
 //
-//  Created by Luuk de Jonge on 08/07/2020.
+//  Created by Luuk de Jonge on 15/07/2020.
 //  Copyright © 2020 Luuk de Jonge. All rights reserved.
 //
 
